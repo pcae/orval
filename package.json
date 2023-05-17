@@ -3,6 +3,8 @@
   "namespace": "@orval",
   "version": "6.15.0",
   "license": "MIT",
+  "main": "./packages/orval/dist/index.js",
+  "types": "./packages/orval/dist/index.d.ts",
   "workspaces": [
     "packages/*"
   ],
