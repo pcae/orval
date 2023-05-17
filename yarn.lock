@@ -3551,11 +3551,6 @@ human-signals@^3.0.1:
   resolved "https://registry.npmjs.org/human-signals/-/human-signals-3.0.1.tgz"
   integrity sha512-rQLskxnM/5OCldHo+wNXbpVgDn5A17CUoKX+7Sokwaknlq7CdSnphy0W39GU8dw59XiCXmFXDg4fRuckQRKewQ==
 
-husky@^8.0.1:
-  version "8.0.1"
-  resolved "https://registry.npmjs.org/husky/-/husky-8.0.1.tgz"
-  integrity sha512-xs7/chUH/CKdOCs7Zy0Aev9e/dKOMZf3K1Az1nar3tzlv0jfqnYtu235bstsWTmXOR0EfINrPa97yy4Lz6RiKw==
-
 ibm-openapi-validator@^0.97.3:
   version "0.97.5"
   resolved "https://registry.yarnpkg.com/ibm-openapi-validator/-/ibm-openapi-validator-0.97.5.tgz#282c8e298066cae91ecbd9bc69f6f3a86ff9efa2"
