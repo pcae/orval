@@ -1,7 +1,7 @@
 {
   "name": "orval-workspaces",
   "namespace": "@orval",
-  "version": "6.15.0",
+  "version": "6.15.100",
   "license": "MIT",
   "main": "./packages/orval/dist/index.js",
   "types": "./packages/orval/dist/index.d.ts",
