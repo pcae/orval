@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-client-angular.d.ts","sourceRoot":"","sources":["../../mutators/custom-client-angular.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,UAAU,EAAE,MAAM,MAAM,CAAC;AAElC,QAAA,MAAM,YAAY;SAOT,MAAM;YACH,MAAM;aACL,GAAG;WACL,GAAG;cACA,GAAG;0CAQb,CAAC;AAEL,eAAe,YAAY,CAAC"}

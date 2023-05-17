@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-client.d.ts","sourceRoot":"","sources":["../../mutators/custom-client.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,YAAY;SAMlB,MAAM;YACH,KAAK,GAAG,MAAM,GAAG,KAAK,GAAG,QAAQ,GAAG,OAAO;;;kBAmBG,GAAG;;;;6BAN1D,CAAC;AAEF,eAAe,YAAY,CAAC;AAE5B,oBAAY,SAAS,CAAC,SAAS,IAAI,SAAS,CAAC;AAE7C,oBAAY,QAAQ,CAAC,QAAQ,IAAI,QAAQ,GAAG;IAAE,OAAO,CAAC,EAAE,GAAG,CAAA;CAAE,CAAC"}
