@@ -1,5 +1,4 @@
 mock-backend
-dist
 .rpt2_cache
 
 ### macOS ###
@@ -102,3 +101,5 @@ typings/
 package-lock.json
 tests/generated/**
 .turbo
+
+*.testing-helper-generated.ts
