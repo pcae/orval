@@ -811,7 +811,7 @@ declare const getBody: ({ requestBody, operationName, context, contentType, }: {
     contentType?: OverrideOutputContentType | undefined;
 }) => GetterBody;
 
-declare type Separator = 'allOf' | 'anyOf' | 'oneOf';
+declare type Separator = 'anyOf' | 'oneOf';
 declare const combineSchemas: ({ name, schema, separator, context, nullable, }: {
     name?: string | undefined;
     schema: SchemaObject;
